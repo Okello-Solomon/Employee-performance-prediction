@@ -924,7 +924,7 @@ if menu == "Report":
         st.image("Classification Report (Train).png", width=700)
 
         st.markdown(
-            "The model achieved a training accuracy of 97%, indicating that it learned the patterns in the" 
+            "The model achieved a training accuracy of 94%, indicating that it learned the patterns in the" 
             "employee performance dataset extremely well. This means the model correctly classified" 
             "the performance levels of most employees in the training data."
         )
