@@ -971,6 +971,7 @@ if menu == "Report":
 
         st.subheader("Confusion Matrix - Test Set")
         st.image("Confusion Matrix - Employee Performance (Test Set).png", width=700)
+  
 
         st.markdown( 
         "The test confusion matrix shows that the model performed very well in classifying employee" 
